@@ -1,0 +1,33 @@
+p {
+    color: blue;
+}
+/*
+esto es un comentario en css
+*/
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: red;
+}
+
+
+section {
+    width: 300px;
+    border: 5px solid green;
+    padding: 50px 30px 20px 10px;
+    margin: 20px;
+  }
+
+
+#mi_parrafo{
+    color: blueviolet;
+    text-align: center;
+    border: solid lightseagreen 2px;
+
+}
+
+.estaesmiclase{
+    font-weight: bold;
+    color: brown;
+
+}
