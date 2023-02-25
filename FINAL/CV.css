@@ -1,7 +1,6 @@
 * {
     background-color: lightskyblue;
-    margin: 25px 0px 25px 15px;
-}
+  }
 
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -9,6 +8,7 @@ h1{
     font-style: italic;
     margin: auto;
     text-align: center;
+    margin: 20px 0px 10px 0px;
 }
 
 .div-img {
@@ -20,6 +20,7 @@ h1{
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    margin: 25px 0px 25px 15px;
 }
 
 span{
@@ -33,3 +34,20 @@ li{
     font-size: large;
     margin: 7px 0px 7px 20px;
 }
+
+button {
+    background-color: lightblue ;
+    border-width: 1px;
+    border-color: blue;
+    border-radius: 30%;
+    border-style:solid;
+}
+
+h4 {
+    text-align:center;
+}
+
+a:hover {
+    background-color:aquamarine;
+}
+
